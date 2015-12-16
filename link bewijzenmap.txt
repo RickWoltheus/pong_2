@@ -1,0 +1,23 @@
+http://18701.hosts.ma-cloud.nl/bewijzenmap/FOP/periode2/portofolio/index.html
+
+
+ik heb niet via github kunnen inleveren dus hierbij via een zip
+
+alle veranderingen
+
+-snelheid word meer na contact
+-op spatie gaat de ball langzamer (grote toevoeging)
+-de snelheid van de ai is verminderd
+-de snelheid van player is verminderd
+-er kan nog maar 1 ball op het veld aanwezig zijn
+-de richtingen van de ball zijn iets aangepast
+-kleine bugfixes
+-de game heeft een nieuwe bacckground
+-de paddles hebben nieuwe art
+-de ball heeft nieuwe art met een roterend effect
+-alle geluiden zijn aangepast
+-er is een nieuwe font toegevoegd
+-een poging tot the getter en setter opdracht
+-poging tot implementeren van powerup
+
+https://www.youtube.com/watch?v=B9MmV2RcYnA
